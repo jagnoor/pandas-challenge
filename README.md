@@ -2,8 +2,6 @@
 Pandas Homework - Pandas, Pandas, Pandas 
 
 
-# Pandas Homework - Pandas, Pandas, Pandas
-
 ## Background
 
 The data dive continues!
