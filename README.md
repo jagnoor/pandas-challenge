@@ -1,6 +1,5 @@
 # pandas-challenge
-Pandas Homework - Pandas, Pandas, Pandas 
-
+Pandas Homework - Pandas, Pandas, Pandas
 
 ## Background
 
@@ -94,7 +93,30 @@ As final considerations:
 * You must use the Pandas library and a Jupyter Notebook.
 * You must submit a link to your GitHub repo that contains your Jupyter Notebook.
 * You must include a written description of three observable trends based on the data.
-* See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
+* See [Example Solution] for a reference on expected format
+
+ <br />
+
+
+![Fantasy](HeroesOfPymoli/Images/TotalPlayers.png)
+
+![Fantasy](HeroesOfPymoli/Images/PurchasingAnalysis.png)
+
+![Fantasy](HeroesOfPymoli/Images/Gender.png)
+
+![Fantasy](HeroesOfPymoli/Images/Genderpurchase.png)
+
+![Fantasy](HeroesOfPymoli/Images/AgeDemo.png) 
+
+![Fantasy](HeroesOfPymoli/Images/Agepurchase.png)
+
+![Fantasy](HeroesOfPymoli/Images/TopSpend.png)
+
+![Fantasy](HeroesOfPymoli/Images/Mostpolular.png)
+
+![Fantasy](HeroesOfPymoli/Images/Mostprofitable.png)
+
+
 
 
 
