@@ -115,8 +115,3 @@ As final considerations:
 ![Fantasy](HeroesOfPymoli/Images/Mostpolular.png)
 
 ![Fantasy](HeroesOfPymoli/Images/Mostprofitable.png)
-
-
-
-
-
