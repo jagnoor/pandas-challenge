@@ -1,6 +1,17 @@
 # pandas-challenge
 Pandas Homework - Pandas, Pandas, Pandas
 
+Observable Trends
+
+The vast majority are male (84%).
+
+The best represented age bracket in the data is 20-24 years(45%), followed by 15-19(18.58%) and 25-29(13.37%).
+
+Age group 20-24 spends the most money, total purchase value of $1,114.06 and average puchase of $4.32 per person. 
+
+
+
+
 ## Heroes of Pymoli
 
 ![Fantasy](HeroesOfPymoli/Images/Fantasy.png)
