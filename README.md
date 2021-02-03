@@ -5,7 +5,7 @@ Observable Trends
 
 * Final Critic is the most profitable game
 
-* The vast majority are male (84%).
+* The vast majority of the players are male (84%). (Shocker!!) :) 
 
 * The best represented age bracket in the data is 20-24 years(45%), followed by 15-19(18.58%) and 25-29(13.37%).
 
